@@ -60,6 +60,11 @@ public class PassengerFlight {
 	public void setPassenger(Passenger passenger) {
 		this.passenger = passenger;
 	}
+
+	public PassengerFlight getById(int fid) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 	
 	
 	
